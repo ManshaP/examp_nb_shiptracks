@@ -1,0 +1,34 @@
+[I 2023-10-09 14:25:19.088 ServerApp] jupyter_resource_usage | extension was successfully linked.
+[I 2023-10-09 14:25:19.128 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-10-09 14:25:21.374 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-10-09 14:25:21.632 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-10-09 14:25:21.632 ServerApp] jupyter_resource_usage | extension was successfully loaded.
+[I 2023-10-09 14:25:21.633 LabApp] JupyterLab extension loaded from /home/users/pete_nut/miniconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-10-09 14:25:21.633 LabApp] JupyterLab application directory is /home/users/pete_nut/miniconda3/share/jupyter/lab
+[I 2023-10-09 14:25:21.638 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-10-09 14:25:21.639 ServerApp] Serving notebooks from local directory: /home/users/pete_nut/example_notebook
+[I 2023-10-09 14:25:21.639 ServerApp] Jupyter Server 1.13.5 is running at:
+[I 2023-10-09 14:25:21.639 ServerApp] http://localhost:1024/lab?token=c37739115b945f1bccc4994ff6e11ebd228a744b54f152f0
+[I 2023-10-09 14:25:21.639 ServerApp]  or http://127.0.0.1:1024/lab?token=c37739115b945f1bccc4994ff6e11ebd228a744b54f152f0
+[I 2023-10-09 14:25:21.639 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-10-09 14:25:21.687 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/users/pete_nut/.local/share/jupyter/runtime/jpserver-21496-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:1024/lab?token=c37739115b945f1bccc4994ff6e11ebd228a744b54f152f0
+     or http://127.0.0.1:1024/lab?token=c37739115b945f1bccc4994ff6e11ebd228a744b54f152f0
+[I 2023-10-09 14:26:20.266 ServerApp] 302 GET /?token=c37739115b945f1bccc4994ff6e11ebd228a744b54f152f0 (127.0.0.1) 1.33ms
+[W 2023-10-09 14:26:41.744 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-10-09 14:26:47.045 ServerApp] 404 GET /api/contents/regression/linear_model.ipynb?content=0&1696858006968 (127.0.0.1): No such file or directory: regression/linear_model.ipynb
+[W 2023-10-09 14:26:47.046 ServerApp] No such file or directory: regression/linear_model.ipynb
+[W 2023-10-09 14:26:47.047 ServerApp] 404 GET /api/contents/regression/linear_model.ipynb?content=0&1696858006968 (127.0.0.1) 18.56ms referer=http://localhost:1024/lab
+[W 2023-10-09 14:26:48.105 ServerApp] 404 GET /api/contents/regression?1696858008060 (127.0.0.1): No such file or directory: regression
+[W 2023-10-09 14:26:48.105 ServerApp] No such file or directory: regression
+[W 2023-10-09 14:26:48.105 ServerApp] 404 GET /api/contents/regression?1696858008060 (127.0.0.1) 19.19ms referer=http://localhost:1024/lab
+[I 2023-10-09 14:33:15.002 ServerApp] 302 GET / (127.0.0.1) 0.51ms
+[I 2023-10-09 14:33:15.004 LabApp] 302 GET /lab (127.0.0.1) 0.54ms
+[C 2023-10-09 14:33:20.043 ServerApp] received signal 15, stopping
+[I 2023-10-09 14:33:20.048 ServerApp] Shutting down 3 extensions
+[I 2023-10-09 14:33:20.048 ServerApp] Shutting down 0 kernels
+[I 2023-10-09 14:33:20.049 ServerApp] Shutting down 0 terminals
